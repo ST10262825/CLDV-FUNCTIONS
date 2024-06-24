@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "CraftsFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7108"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31645,
+      "useSSL": false
+    }
+  }
+}
